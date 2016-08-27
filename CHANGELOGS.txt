@@ -1,0 +1,12 @@
+CHANGELOGS
+- v1.0.2
+	- Added .bat file to run the program.
+	- Added program ending.
+	- Uploaded to GitHub
+- v1.0.1
+	- Fixed MySQL database connection.
+	- Fixed proper duplicates output.
+	- Now creates and deletes its own databases.
+	- Added more infx`ormation while program is running.
+- v1.0.0
+  - Initial Release
