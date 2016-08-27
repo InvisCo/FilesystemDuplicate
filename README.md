@@ -4,21 +4,11 @@
 This is a _command line_ program that can be used to search for possible duplicate files in any filesystem.
 
 ##Prerequisites: 
-	[Java 8 or above](https://java.com/en/download).
-	[MySQL Community Server 5.7 or above](https://dev.mysql.com/downloads/mysql).
+	[Java 8 or above](https://java.com/en/download)
+	[MySQL Community Server 5.7 or above](https://dev.mysql.com/downloads/mysql)
 
-##CHANGELOGS
-* v1.0.2
-	* Added .bat file to run the program.
-	* Added program ending.
-	* Uploaded to GitHub
-* v1.0.1
-	* Fixed MySQL database connection.
-	* Fixed proper duplicates output.
-	* Now creates and deletes its own databases.
-	* Added more infx`ormation while program is running.
-* v1.0.0
-	* Initial Release
+##Download Link
+	[Dropbox](https://www.dropbox.com/s/x6avbrt5apsb5f8/Filesystem_Duplicate_1.0.2.zip?dl=0)
 
 ##TO RUN:
 * Install Java appliaction you downloaded.
