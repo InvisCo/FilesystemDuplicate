@@ -1,7 +1,7 @@
 # FilesystemDuplicate
 ####Author: InvisiCoder 
 
-This is a program that can be used to search for possible duplicate files in any filesystem.
+This is a _command line_ program that can be used to search for possible duplicate files in any filesystem.
 
 ##Prerequisites: 
 	[Java 8 or above](https://java.com/en/download).
@@ -11,6 +11,7 @@ This is a program that can be used to search for possible duplicate files in any
 * v1.0.2
 	* Added .bat file to run the program.
 	* Added program ending.
+	* Uploaded to GitHub
 * v1.0.1
 	* Fixed MySQL database connection.
 	* Fixed proper duplicates output.
