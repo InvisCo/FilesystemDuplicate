@@ -1,5 +1,7 @@
 CHANGELOGS
 - v1.1.0
+	- Travis Integration
+- v1.0.2
 	- Added .bat file to run the program.
 	- Added program ending.
 	- Uploaded to GitHub
