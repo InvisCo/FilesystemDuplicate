@@ -1,5 +1,5 @@
 [![Travis Build Status](https://travis-ci.org/InvisiCoder/FilesystemDuplicate.svg?branch=master)](https://travis-ci.org/InvisiCoder/FilesystemDuplicate)
-[![Github All Releases](https://img.shields.io/github/downloads/InvisiCoder/FilesystemDuplicate/atom/total.svg?maxAge=2592000)](https://github.com/InvisiCoder/FilesystemDuplicate/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/InvisiCoder/FilesystemDuplicate/total.svg?maxAge=2592000)](https://github.com/InvisiCoder/FilesystemDuplicate/releases)
 [![GitHub release](https://img.shields.io/github/release/InvisiCoder/FilesystemDuplicate.svg?maxAge=2592000)](https://github.com/InvisiCoder/FilesystemDuplicate/releases)
 # FilesystemDuplicate
 ####Author: InvisiCoder 
