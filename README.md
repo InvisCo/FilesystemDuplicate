@@ -1,15 +1,14 @@
+[![Github All Releases](https://img.shields.io/github/downloads/InvisiCoder/FilesystemDuplicate/atom/total.svg?maxAge=2592000)](Filesystem_Duplicate.zip)
+[![GitHub release](https://img.shields.io/github/release/InvisiCoder/FilesystemDuplicate.svg?maxAge=2592000)](Filesystem_Duplicate.zip)
 # FilesystemDuplicate
 ####Author: InvisiCoder 
 
 This is a _command line_ program that can be used to search for possible duplicate files in any filesystem.
 
-##Prerequisites: 
+##Prerequisites
 [Java 8 or above](https://java.com/en/download)
 
 [MySQL Community Server 5.7 or above](https://dev.mysql.com/downloads/mysql)
-
-##Download Link
-[Dropbox](https://www.dropbox.com/s/x6avbrt5apsb5f8/Filesystem_Duplicate_1.0.2.zip?dl=0)
 
 ##TO RUN:
 * Install Java appliaction you downloaded.
