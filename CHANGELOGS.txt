@@ -1,5 +1,5 @@
 CHANGELOGS
-- v1.0.2
+- v1.1.0
 	- Added .bat file to run the program.
 	- Added program ending.
 	- Uploaded to GitHub
